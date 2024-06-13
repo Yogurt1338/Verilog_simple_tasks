@@ -5,7 +5,7 @@ module tb_filter();
 reg clk = 0;
 reg signed [15:0] data = 0;
 reg signed [1:0] data_en = 0;
-wire signed [15:0] result;
+wire signed [23:0] result;
 
 // Тактовый сигнал
 initial

@@ -30,13 +30,13 @@ module filter (
     input clk,
     input signed [7:0] data,
     input signed [1:0] data_en,
-    output signed [15:0] result
+    output signed [25:0] result
 );
 
     reg signed [7:0] buffer1 = 0;
     reg signed [7:0] buffer2 = 0;
     reg signed [7:0] buffer3 = 0;
-	reg signed [17:0] result_reg = 0;
+	reg signed [25:0] result_reg = 0;
 
 	reg signed [7:0] a = 3;
     reg signed [7:0] b = -4;

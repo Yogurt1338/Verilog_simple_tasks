@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Jun 13 12:18:12 2024
+[*]
+[dumpfile] "/home/ega/Documents/Verilog_simple_tasks/Spi_receiver(4)/test.vcd"
+[dumpfile_mtime] "Thu Jun 13 12:16:29 2024"
+[dumpfile_size] 6750
+[savefile] "/home/ega/Documents/Verilog_simple_tasks/Spi_receiver(4)/gtkwave_out.gtkw"
+[timestart] 0
+[size] 1850 1016
+[pos] -88 -88
+*-8.000000 1043 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_spi.
+[sst_width] 233
+[signals_width] 261
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+tb_spi.uut.sck
+tb_spi.uut.cs
+tb_spi.uut.copi
+@22
+tb_spi.uut.bit_count[5:0]
+@23
+tb_spi.uut.command[7:0]
+@22
+tb_spi.uut.address[23:0]
+tb_spi.uut.data[31:0]
+@28
+tb_spi.uut.state
+@22
+tb_spi.uut.wr_address_out[23:0]
+tb_spi.uut.wr_data_out[31:0]
+@28
+tb_spi.uut.wr_en_out
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,4 @@
+iverilog -o tas spi.v tb_spi.v 
+vvp tas
+
+gtkwave test.vcd 
