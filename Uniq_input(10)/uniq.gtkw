@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Jun  5 22:12:43 2024
+[*]
+[dumpfile] "/home/ega/Documents/Uniq_input/test.vcd"
+[dumpfile_mtime] "Wed Jun  5 22:11:59 2024"
+[dumpfile_size] 1934
+[savefile] "/home/ega/Documents/Uniq_input/uniq.gtkw"
+[timestart] 0
+[size] 1313 719
+[pos] -1 -1
+*-6.302517 62 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 225
+[sst_expanded] 1
+[sst_vpaned_height] 185
+@420
+tb_uniq.clk
+tb_uniq.data_en
+tb_uniq.data_in[7:0]
+tb_uniq.out_1[7:0]
+tb_uniq.out_2[7:0]
+tb_uniq.out_3[7:0]
+tb_uniq.out_4[7:0]
+tb_uniq.val_1
+tb_uniq.val_2
+tb_uniq.val_3
+tb_uniq.val_4
+[pattern_trace] 1
+[pattern_trace] 0

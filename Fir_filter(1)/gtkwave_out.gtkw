@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Dec 12 21:58:27 2023
+[*]
+[dumpfile] "/home/ega/Documents/FIR_Filter/test.vsd"
+[dumpfile_mtime] "Tue Dec 12 21:57:14 2023"
+[dumpfile_size] 2844
+[savefile] "/home/ega/Documents/FIR_Filter/gtkwave_out.gtkw"
+[timestart] 0
+[size] 1349 775
+[pos] 184 121
+*-7.000000 75 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_filter.
+[sst_width] 233
+[signals_width] 241
+[sst_expanded] 1
+[sst_vpaned_height] 205
+@24
+tb_filter.dut.clk
+tb_filter.dut.buffer1[7:0]
+tb_filter.dut.buffer2[7:0]
+tb_filter.dut.buffer3[7:0]
+tb_filter.dut.data[7:0]
+@25
+tb_filter.dut.data_en[1:0]
+@24
+tb_filter.dut.c1[7:0]
+tb_filter.dut.c2[7:0]
+tb_filter.dut.c3[7:0]
+tb_filter.dut.flag[2:0]
+tb_filter.dut.mult1[15:0]
+tb_filter.dut.mult2[15:0]
+tb_filter.dut.result[17:0]
+tb_filter.dut.result_reg[17:0]
+tb_filter.dut.result_temp[17:0]
+tb_filter.dut.temp[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

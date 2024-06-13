@@ -1,0 +1,4 @@
+iverilog -o tas uniq.v tb_uniq.v 
+vvp tas
+
+gtkwave test.vcd 

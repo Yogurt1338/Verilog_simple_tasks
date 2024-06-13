@@ -1,0 +1,4 @@
+iverilog -o tas IIR.v tb_IIR.v 
+vvp tas
+
+gtkwave test.vsd 

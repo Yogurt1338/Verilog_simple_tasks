@@ -1,0 +1,4 @@
+iverilog -o tas complex.v tb_complex.v 
+vvp tas
+
+gtkwave test.vsd 

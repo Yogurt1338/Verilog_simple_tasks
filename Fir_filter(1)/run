@@ -1,0 +1,4 @@
+iverilog -o tas FIR.v tb_FIR.v 
+vvp tas
+
+gtkwave test.vsd 
