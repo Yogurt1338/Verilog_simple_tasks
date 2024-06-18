@@ -81,7 +81,7 @@ module tb_spi;
 
     initial begin
         $dumpfile("test.vcd");
-        $dumpvars(0, tb_spi);
+        $dumpvars;
     end
 
 endmodule

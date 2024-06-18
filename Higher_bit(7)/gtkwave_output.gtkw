@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Jun 13 13:42:14 2024
+[*]
+[dumpfile] "/home/ega/Documents/Verilog_simple_tasks/Higher_bit(7)/test.vcd"
+[dumpfile_mtime] "Thu Jun 13 13:40:32 2024"
+[dumpfile_size] 2943
+[savefile] "/home/ega/Documents/Verilog_simple_tasks/Higher_bit(7)/gtkwave_output.gtkw"
+[timestart] 0
+[size] 1850 1016
+[pos] -88 -88
+*-5.679701 200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 273
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+tb_bit.clk
+tb_bit.data[31:0]
+@25
+tb_bit.position[4:0]
+[pattern_trace] 1
+[pattern_trace] 0
